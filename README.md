@@ -7,5 +7,7 @@ This is my first reopository.
 <br>
 *2nd year cse student in GECJ.
 <br>
-*I'm intrested in .......
+*I'm intrested in Web development.
+<br>
+* i'm good at playing "CHUPPAN CHUPAI"
 
