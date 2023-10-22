@@ -3,7 +3,7 @@ This is my first reopository.
 <br>
 *Hi, I'm Atharv Tiwari.
 <br>
-*from kota,Rajasthan.
+*I'm from kota,Rajasthan.
 <br>
 *2nd year cse student in GECJ.
 <br>
