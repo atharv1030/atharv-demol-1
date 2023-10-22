@@ -1,8 +1,11 @@
 # atharv-demol-1
 This is my first reopository.
 <br>
-*Hi, i'm Atharv Tiwari.
+*Hi, I'm Atharv Tiwari.
+<br>
+*from kota,Rajasthan.
+<br>
 *2nd year cse student in GECJ.
 <br>
-*
+*I'm intrested in .......
 
