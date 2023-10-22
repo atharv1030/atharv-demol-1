@@ -1,4 +1,8 @@
 # atharv-demol-1
 This is my first reopository.
-hi, i'm Atharv Tiwari.
+<br>
+*Hi, i'm Atharv Tiwari.
+*2nd year cse student in GECJ.
+<br>
+*
 
