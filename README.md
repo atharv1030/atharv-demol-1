@@ -9,5 +9,5 @@ This is my first reopository.
 <br>
 *I'm intrested in Web development.
 <br>
-* i'm good at playing "CHUPPAN CHUPAI"
+* i'm good at playing "CHUPPAN CHUPAI" and Table tennis.
 
