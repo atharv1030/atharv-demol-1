@@ -5,9 +5,9 @@ This is my first reopository.
 <br>
 *I'm from kota,Rajasthan.
 <br>
-*2nd year cse student in GECJ.
+*3nd year cse student in GEC Jhalawar.
 <br>
-*I'm intrested in Web development.
+*I'm interested in Web development.
 <br>
-* i'm good at playing "CHUPPAN CHUPAI" and Table tennis.
+* I'm a National Player of Table tennis.
 
