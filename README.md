@@ -5,7 +5,7 @@ This is my first reopository.
 <br>
 *I'm from kota,Rajasthan.
 <br>
-*3nd year cse student in GEC Jhalawar.
+*3rd year cse student in GEC Jhalawar.
 <br>
 *I'm interested in Web development.
 <br>
